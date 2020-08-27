@@ -2,7 +2,7 @@
 /*
  * Plugin Name: Woocommerce Disable Structured Data
  * Version: 1.0
- * Plugin URI: http://www.hughlashbrooke.com/
+ * Plugin URI: https://github.com/gjedeer/woo_disable_structured_data
  * Description: Disable JSON-LD/structure/microdata from WooCommerce pages
  * Author: Andrzej Godziuk
  * Author URI: https://massivevps.net/
